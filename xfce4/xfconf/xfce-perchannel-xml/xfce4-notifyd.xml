@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-notifyd" version="1.0">
+  <property name="notify-location" type="uint" value="1"/>
+  <property name="theme" type="string" value="Default"/>
+  <property name="initial-opacity" type="double" value="1.000000"/>
+  <property name="expire-timeout" type="int" value="2"/>
+  <property name="primary-monitor" type="uint" value="0"/>
+  <property name="do-fadeout" type="bool" value="true"/>
+  <property name="applications" type="empty">
+    <property name="known_applications" type="array">
+      <value type="string" value="balena-etcher"/>
+      <value type="string" value="blueman"/>
+      <value type="string" value="discord"/>
+      <value type="string" value="discord_discord"/>
+      <value type="string" value="Fedora Media Writer"/>
+      <value type="string" value="Firefox"/>
+      <value type="string" value="io.snapcraft.SessionAgent"/>
+      <value type="string" value="nm-applet"/>
+      <value type="string" value="org.gnome.baobab"/>
+      <value type="string" value="org.gnome.clocks"/>
+      <value type="string" value="org.xfce.Thunar"/>
+      <value type="string" value="Spotify"/>
+      <value type="string" value="spotify_spotify"/>
+      <value type="string" value="spotify_spotify-04a24fcb-9b36-47b2-b6dd-c3ccb38d85eb"/>
+      <value type="string" value="spotify_spotify-0fcad6ed-1c2a-45ad-875e-e1c4307d888b"/>
+      <value type="string" value="spotify_spotify-13e2e8b6-f9f0-49cc-8489-3c54df110d82"/>
+      <value type="string" value="spotify_spotify-14f91187-be7f-4d48-995c-5412e2950818"/>
+      <value type="string" value="spotify_spotify-1bf4643b-7076-428b-85ba-f12163173398"/>
+      <value type="string" value="spotify_spotify-1bf532de-c8e5-4b8c-9865-26f3dbe73cf4"/>
+      <value type="string" value="spotify_spotify-1e04a103-445f-4967-977d-e8cbd9564504"/>
+      <value type="string" value="spotify_spotify-1e7afa45-62a0-47e2-8e3f-e58a973af620"/>
+      <value type="string" value="spotify_spotify-1f6d061e-a07a-4b95-96d0-82927b7a796f"/>
+      <value type="string" value="spotify_spotify-21afd190-ef12-4ce2-89ba-6f9fe2bf1822"/>
+      <value type="string" value="spotify_spotify-23f58c5a-9f67-425e-a03f-f24878026d25"/>
+      <value type="string" value="spotify_spotify-273f0735-16a8-4764-bfe7-efde59b1dc3b"/>
+      <value type="string" value="spotify_spotify-2f1e0922-0809-445f-8c38-268731d3a9b0"/>
+      <value type="string" value="spotify_spotify-330bd3ca-b376-4906-8772-5ce0d0b6b8a1"/>
+      <value type="string" value="spotify_spotify-3623bde9-8688-4925-b688-4ed1baf41fcd"/>
+      <value type="string" value="spotify_spotify-3df29028-f0f6-48ae-bae5-237e5c7b7368"/>
+      <value type="string" value="spotify_spotify-3f9646f4-3ac1-4227-840f-d213b5f49776"/>
+      <value type="string" value="spotify_spotify-45a14218-e33c-4dea-b81f-850c0374f26a"/>
+      <value type="string" value="spotify_spotify-46b43b4d-0ec7-4bc7-afe0-7211e7299704"/>
+      <value type="string" value="spotify_spotify-48f97e02-cf29-494f-8b4b-645ccdd85a68"/>
+      <value type="string" value="spotify_spotify-49d48057-7fa2-43e5-a9f8-a1586bd9c021"/>
+      <value type="string" value="spotify_spotify-4b8b472b-c617-4443-8945-58f235a39f20"/>
+      <value type="string" value="spotify_spotify-4d5a86ec-94d8-4e3e-a587-1ee0432a928a"/>
+      <value type="string" value="spotify_spotify-4fd0bd54-2cf9-41b1-8bfd-57551cf870ab"/>
+      <value type="string" value="spotify_spotify-546b2a6c-12da-4811-8169-acbd89d02e32"/>
+      <value type="string" value="spotify_spotify-547579f3-ab9d-44ef-9ad0-ca68121e5e90"/>
+      <value type="string" value="spotify_spotify-55bcfeea-a61c-47c7-b629-2f27a3521a90"/>
+      <value type="string" value="spotify_spotify-5965cd41-1394-4b8f-afb0-77710b156509"/>
+      <value type="string" value="spotify_spotify-5bd84f6a-e674-4011-93e8-f4df86ec3c42"/>
+      <value type="string" value="spotify_spotify-5e952628-2f63-42f9-8b35-c022157de56d"/>
+      <value type="string" value="spotify_spotify-64ac2ff8-ce53-46d0-a7b7-3ed616849b67"/>
+      <value type="string" value="spotify_spotify-6e1e047f-def1-4385-b0cc-c7b08568b864"/>
+      <value type="string" value="spotify_spotify-713a5322-2bc3-4d89-9369-b3b5a1158140"/>
+      <value type="string" value="spotify_spotify-7148d5bd-4b94-4923-9c41-c013d64be24a"/>
+      <value type="string" value="spotify_spotify-756efa82-a201-4f63-9b22-a14f28f8ef18"/>
+      <value type="string" value="spotify_spotify-77427ea5-01b0-43a7-bb56-3105794beb64"/>
+      <value type="string" value="spotify_spotify-779e9f7e-0e23-4dc1-8b16-140c1b2c2157"/>
+      <value type="string" value="spotify_spotify-7a350a40-47e7-4214-9b68-4a7db8504c79"/>
+      <value type="string" value="spotify_spotify-7cb738d2-cd52-4362-a0a3-307119caa8cf"/>
+      <value type="string" value="spotify_spotify-81249cc4-bd1e-42b9-a006-7faeed996a77"/>
+      <value type="string" value="spotify_spotify-82e7a034-6f31-4187-bd11-8581e4b3ead9"/>
+      <value type="string" value="spotify_spotify-8b8fa275-e548-4e70-ba6c-c7ef9f2eed45"/>
+      <value type="string" value="spotify_spotify-8c5c37a8-fe2e-4e90-9560-c3c4cd37d8bb"/>
+      <value type="string" value="spotify_spotify-8dd06e79-75b6-41de-a029-573b69791fb3"/>
+      <value type="string" value="spotify_spotify-8df772d3-1cf6-4aef-bcf7-1be36fa968ac"/>
+      <value type="string" value="spotify_spotify-8f670774-e99b-4a4a-89a8-3790abb6bea0"/>
+      <value type="string" value="spotify_spotify-90360b68-24be-4b0d-b887-ecd6773de9b3"/>
+      <value type="string" value="spotify_spotify-90fefe2b-c8d6-4a4a-960e-8c3ae1d724c7"/>
+      <value type="string" value="spotify_spotify-93a34a94-e3fb-423d-9695-1110dc6baee1"/>
+      <value type="string" value="spotify_spotify-9952985f-7e0a-46eb-b043-6f53e40c00c4"/>
+      <value type="string" value="spotify_spotify-9afde852-981f-4474-a137-a1cb85ef9eb7"/>
+      <value type="string" value="spotify_spotify-9bb2b006-adbe-408a-ad58-6586b6a577ba"/>
+      <value type="string" value="spotify_spotify-9d4f66e9-945f-4a5c-b325-e2102ac590e7"/>
+      <value type="string" value="spotify_spotify-a2b94e83-e9f4-48b6-b7b3-85469f70da6c"/>
+      <value type="string" value="spotify_spotify-a573071d-1470-406d-9477-b602a3c863cf"/>
+      <value type="string" value="spotify_spotify-a630a6d8-8ef4-4320-9a41-794ecad8d358"/>
+      <value type="string" value="spotify_spotify-aa56c109-f604-4464-8714-d92e8b81d45a"/>
+      <value type="string" value="spotify_spotify-aaf96a6b-7e70-45f3-9e5d-4da00021292b"/>
+      <value type="string" value="spotify_spotify-af6a5cfe-ff23-4db5-b536-163560b63367"/>
+      <value type="string" value="spotify_spotify-b140c361-a5ab-434b-b854-8e5bace43d41"/>
+      <value type="string" value="spotify_spotify-b5ea7482-1b77-4f0e-b86f-4187e33c8882"/>
+      <value type="string" value="spotify_spotify-b6ac62e7-943c-439e-9ee1-ba40aadd7dfa"/>
+      <value type="string" value="spotify_spotify-bbd34131-364c-498c-a5da-2ea960323b7d"/>
+      <value type="string" value="spotify_spotify-bc73d322-f658-4e5f-94ab-6c3cdb1b68ae"/>
+      <value type="string" value="spotify_spotify-c6b46f4c-342b-48a7-8234-6ef6d24cde6a"/>
+      <value type="string" value="spotify_spotify-c6db280c-a893-4f06-aa17-5ca2046eb7f8"/>
+      <value type="string" value="spotify_spotify-ca265a62-cbc3-4f2c-a7df-577835730812"/>
+      <value type="string" value="spotify_spotify-ce45565a-56f6-41f9-aa12-11c41426d794"/>
+      <value type="string" value="spotify_spotify-d192c265-5e08-416f-9180-1ee59a06a1a3"/>
+      <value type="string" value="spotify_spotify-d32162f5-e2ef-4be7-9b94-84a947b953d5"/>
+      <value type="string" value="spotify_spotify-d8b1eaa5-b2d7-4b54-8424-5da784b2b1d5"/>
+      <value type="string" value="spotify_spotify-dc234954-6503-4d1a-baa3-5c0ae12e8076"/>
+      <value type="string" value="spotify_spotify-dc420036-0279-40ba-b809-d9bbc8efb32c"/>
+      <value type="string" value="spotify_spotify-de71eb38-1943-450d-a46b-469c3ce5dc4d"/>
+      <value type="string" value="spotify_spotify-e3603065-936c-4379-b45e-4637066f61a4"/>
+      <value type="string" value="spotify_spotify-e97f8903-9f9a-4f9d-ba4c-38415270c05f"/>
+      <value type="string" value="spotify_spotify-e9fb99e3-576a-4fde-8d71-511f9d83eb9f"/>
+      <value type="string" value="spotify_spotify-ea1d2bd3-566c-4afd-8e40-0912dc3c8b71"/>
+      <value type="string" value="spotify_spotify-f4421889-8ffb-4751-a53e-4c1468238443"/>
+      <value type="string" value="spotify_spotify-fa610f39-b878-4380-b3d5-2ac0e599b811"/>
+      <value type="string" value="spotify_spotify-fed51daa-1d84-4e00-87e7-c4788de7a5f0"/>
+      <value type="string" value="spotify_spotify-ff3fc113-49c5-45ec-94c5-feff5d3a81d7"/>
+      <value type="string" value="System Config Printer Notification"/>
+      <value type="string" value="thunar-volman"/>
+      <value type="string" value="Update Manager"/>
+      <value type="string" value="vpnui"/>
+      <value type="string" value="whatsapp-desktop"/>
+      <value type="string" value="Xfce volume control"/>
+      <value type="string" value="Xfce volume daemon"/>
+      <value type="string" value="Xfce4-notifyd settings"/>
+      <value type="string" value="xfce4-power-manager"/>
+      <value type="string" value="xfce4-settings-helper"/>
+    </property>
+    <property name="muted_applications" type="array">
+      <value type="string" value="Firefox"/>
+    </property>
+  </property>
+  <property name="log-level" type="uint" value="0"/>
+  <property name="log-level-apps" type="uint" value="0"/>
+  <property name="do-slideout" type="bool" value="true"/>
+  <property name="do-not-disturb" type="bool" value="true"/>
+  <property name="plugin" type="empty">
+    <property name="log-only-today" type="bool" value="false"/>
+    <property name="log-display-limit" type="int" value="10"/>
+  </property>
+  <property name="notification-log" type="bool" value="true"/>
+</channel>

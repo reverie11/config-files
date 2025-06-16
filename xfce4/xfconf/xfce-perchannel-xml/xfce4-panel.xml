@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="empty"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <value type="int" value="2"/>
+    <value type="int" value="3"/>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=1;x=1899;y=345"/>
+      <property name="length" type="uint" value="1"/>
+      <property name="position-locked" type="bool" value="false"/>
+      <property name="size" type="uint" value="40"/>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="background-alpha" type="empty"/>
+      <property name="enter-opacity" type="uint" value="100"/>
+      <property name="leave-opacity" type="uint" value="100"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="1"/>
+        <value type="int" value="2"/>
+        <value type="int" value="3"/>
+        <value type="int" value="12"/>
+        <value type="int" value="50"/>
+        <value type="int" value="4"/>
+        <value type="int" value="15"/>
+        <value type="int" value="17"/>
+        <value type="int" value="52"/>
+        <value type="int" value="6"/>
+        <value type="int" value="22"/>
+        <value type="int" value="9"/>
+      </property>
+      <property name="nrows" type="uint" value="1"/>
+      <property name="length-adjust" type="bool" value="true"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.123333"/>
+        <value type="double" value="0.123333"/>
+        <value type="double" value="0.123333"/>
+        <value type="double" value="1.000000"/>
+      </property>
+      <property name="icon-size" type="uint" value="0"/>
+      <property name="mode" type="uint" value="1"/>
+      <property name="disable-struts" type="bool" value="false"/>
+      <property name="span-monitors" type="bool" value="true"/>
+      <property name="autohide-behavior" type="uint" value="1"/>
+      <property name="background-image" type="string" value="/home/reverie/Pictures/wallpaper/1090334.jpg"/>
+      <property name="output-name" type="string" value="Automatic"/>
+    </property>
+    <property name="dark-mode" type="bool" value="true"/>
+    <property name="panel-2" type="empty">
+      <property name="position" type="string" value="p=4;x=3409;y=2135"/>
+      <property name="size" type="uint" value="48"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="8"/>
+        <value type="int" value="20"/>
+        <value type="int" value="28"/>
+        <value type="int" value="29"/>
+        <value type="int" value="11"/>
+        <value type="int" value="19"/>
+        <value type="int" value="10"/>
+        <value type="int" value="5"/>
+        <value type="int" value="21"/>
+        <value type="int" value="7"/>
+      </property>
+      <property name="length" type="uint" value="1"/>
+      <property name="nrows" type="uint" value="1"/>
+      <property name="disable-struts" type="bool" value="true"/>
+      <property name="autohide-behavior" type="uint" value="1"/>
+      <property name="span-monitors" type="bool" value="false"/>
+      <property name="background-style" type="uint" value="0"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.123333"/>
+        <value type="double" value="0.123333"/>
+        <value type="double" value="0.123333"/>
+        <value type="double" value="1.000000"/>
+      </property>
+      <property name="enter-opacity" type="uint" value="100"/>
+      <property name="leave-opacity" type="uint" value="100"/>
+      <property name="icon-size" type="uint" value="34"/>
+      <property name="position-locked" type="bool" value="false"/>
+      <property name="output-name" type="string" value="Automatic"/>
+      <property name="length-adjust" type="bool" value="true"/>
+    </property>
+    <property name="panel-3" type="empty">
+      <property name="position" type="string" value="p=1;x=1863;y=802"/>
+      <property name="size" type="uint" value="50"/>
+      <property name="length" type="uint" value="1"/>
+      <property name="nrows" type="uint" value="2"/>
+      <property name="icon-size" type="uint" value="16"/>
+      <property name="span-monitors" type="bool" value="false"/>
+      <property name="position-locked" type="bool" value="false"/>
+      <property name="output-name" type="string" value="Automatic"/>
+      <property name="mode" type="uint" value="1"/>
+      <property name="leave-opacity" type="uint" value="100"/>
+      <property name="enter-opacity" type="uint" value="100"/>
+      <property name="autohide-behavior" type="uint" value="0"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="25"/>
+      </property>
+      <property name="disable-struts" type="bool" value="true"/>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.123333"/>
+        <value type="double" value="0.123333"/>
+        <value type="double" value="0.123333"/>
+        <value type="double" value="1.000000"/>
+      </property>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-1" type="empty"/>
+    <property name="plugin-2" type="empty"/>
+    <property name="plugin-3" type="empty">
+      <property name="items" type="array">
+        <value type="string" value="16659527571.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-4" type="empty">
+      <property name="items" type="array">
+        <value type="string" value="16659527572.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-5" type="string" value="power-manager-plugin">
+      <property name="items" type="empty"/>
+    </property>
+    <property name="plugin-6" type="string" value="separator">
+      <property name="show-handle" type="empty"/>
+      <property name="middle-click" type="empty"/>
+      <property name="expand" type="bool" value="false"/>
+      <property name="style" type="uint" value="1"/>
+    </property>
+    <property name="plugin-7" type="string" value="actions">
+      <property name="expand" type="empty"/>
+      <property name="style" type="empty"/>
+      <property name="appearance" type="uint" value="0"/>
+    </property>
+    <property name="plugin-8" type="string" value="datetime">
+      <property name="names-visible" type="empty"/>
+      <property name="show-frame" type="empty"/>
+    </property>
+    <property name="plugin-9" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-10" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="mpris-players" type="string" value="firefox.instance11730;firefox.instance12273;firefox.instance12340;firefox.instance130080;firefox.instance13170;firefox.instance132658;firefox.instance153763;firefox.instance161235;firefox.instance16844;firefox.instance18325;firefox.instance183354;firefox.instance195775;firefox.instance215628;firefox.instance219940;firefox.instance223340;firefox.instance2245;firefox.instance2278;firefox.instance22803;firefox.instance23010;firefox.instance2427;firefox.instance2445;firefox.instance2458;firefox.instance2483;firefox.instance25493;firefox.instance25533;firefox.instance2566;firefox.instance2644;firefox.instance2652;firefox.instance2669;firefox.instance2692;firefox.instance26925;firefox.instance2712;firefox.instance2715;firefox.instance2721;firefox.instance2726;firefox.instance2729;firefox.instance2730;firefox.instance2742;firefox.instance2747;firefox.instance2750;firefox.instance2754;firefox.instance2756;firefox.instance2769;firefox.instance28485;firefox.instance2854;firefox.instance2902;firefox.instance2905;firefox.instance2909;firefox.instance2938;firefox.instance29457;firefox.instance2979;firefox.instance2982;firefox.instance3000;firefox.instance3054;firefox.instance3065;firefox.instance3135;firefox.instance31514;firefox.instance3169;firefox.instance32077;firefox.instance3231;firefox.instance3272;firefox.instance3293;firefox.instance33291;firefox.instance3434;firefox.instance34389;firefox.instance3698;firefox.instance3910;firefox.instance40321;firefox.instance4327;firefox.instance48255;firefox.instance4832;firefox.instance49660;firefox.instance50157;firefox.instance52556;firefox.instance54388;firefox.instance5450;firefox.instance55607;firefox.instance58481;firefox.instance5880;firefox.instance61703;firefox.instance66394;firefox.instance69102;firefox.instance70059;firefox.instance71027;firefox.instance95632;firefox.instance9786;firefox.instance_1_100;firefox.instance_1_102;firefox.instance_1_103;firefox.instance_1_104;firefox.instance_1_105;firefox.instance_1_106;firefox.instance_1_111;firefox.instance_1_112;firefox.instance_1_113;firefox.instance_1_114;firefox.instance_1_115;firefox.instance_1_116;firefox.instance_1_11668;firefox.instance_1_118;firefox.instance_1_119;firefox.instance_1_121;firefox.instance_1_123;firefox.instance_1_124;firefox.instance_1_126;firefox.instance_1_127;firefox.instance_1_135;firefox.instance_1_136;firefox.instance_1_137;firefox.instance_1_142;firefox.instance_1_143;firefox.instance_1_147;firefox.instance_1_148;firefox.instance_1_149;firefox.instance_1_159;firefox.instance_1_167;firefox.instance_1_178;firefox.instance_1_181;firefox.instance_1_185;firefox.instance_1_199;firefox.instance_1_204;firefox.instance_1_208;firefox.instance_1_210;firefox.instance_1_229;firefox.instance_1_235;firefox.instance_1_236;firefox.instance_1_2436;firefox.instance_1_247;firefox.instance_1_274;firefox.instance_1_290;firefox.instance_1_315;firefox.instance_1_322;firefox.instance_1_341;firefox.instance_1_3456;firefox.instance_1_391;firefox.instance_1_392;firefox.instance_1_394;firefox.instance_1_3981;firefox.instance_1_40;firefox.instance_1_41;firefox.instance_1_42;firefox.instance_1_43;firefox.instance_1_465;firefox.instance_1_51;firefox.instance_1_52;firefox.instance_1_529;firefox.instance_1_53;firefox.instance_1_54;firefox.instance_1_55;firefox.instance_1_56;firefox.instance_1_560;firefox.instance_1_58;firefox.instance_1_658;firefox.instance_1_663;firefox.instance_1_705;firefox.instance_1_714;firefox.instance_1_78;firefox.instance_1_80;firefox.instance_1_81;firefox.instance_1_82;firefox.instance_1_83;firefox.instance_1_84;firefox.instance_1_85;firefox.instance_1_86;firefox.instance_1_8621;firefox.instance_1_87;firefox.instance_1_887;firefox.instance_1_89;firefox.instance_1_90;firefox.instance_1_91;firefox.instance_1_92;firefox.instance_1_93;firefox.instance_1_94;firefox.instance_1_95;firefox.instance_1_964;firefox.instance_1_98;firefox.instance_1_99;io.github.celluloid_player.Celluloid.instance-1;spotify"/>
+    </property>
+    <property name="plugin-11" type="string" value="systray">
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="gpick"/>
+        <value type="string" value="warpinator"/>
+        <value type="string" value="sticky.py"/>
+        <value type="string" value="cisco anyconnect secure mobility client"/>
+        <value type="string" value="blueman-tray"/>
+        <value type="string" value="hexchat"/>
+        <value type="string" value="javaembeddedframe"/>
+        <value type="string" value="blueman"/>
+        <value type="string" value="mintupdate.py"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="tray.py"/>
+        <value type="string" value="ibus panel"/>
+      </property>
+      <property name="known-items" type="array">
+        <value type="string" value="remmina-icon"/>
+        <value type="string" value="chrome_status_icon_1"/>
+        <value type="string" value="blueman"/>
+      </property>
+      <property name="icon-size" type="int" value="25"/>
+      <property name="hidden-items" type="array">
+      </property>
+      <property name="single-row" type="bool" value="true"/>
+      <property name="square-icons" type="bool" value="true"/>
+      <property name="hide-new-items" type="bool" value="false"/>
+      <property name="hidden-legacy-items" type="array">
+      </property>
+      <property name="menu-is-primary" type="bool" value="false"/>
+    </property>
+    <property name="plugin-12" type="string" value="launcher">
+      <property name="enable-keyboard-shortcuts" type="empty"/>
+      <property name="enable-mpris" type="empty"/>
+      <property name="mixer-command" type="empty"/>
+      <property name="show-notifications" type="empty"/>
+      <property name="items" type="array">
+        <value type="string" value="16974729291.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-13" type="empty">
+      <property name="digital-format" type="empty"/>
+    </property>
+    <property name="plugin-14" type="empty"/>
+    <property name="plugin-15" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16659585322.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-17" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16659604211.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-22" type="string" value="tasklist">
+      <property name="flat-buttons" type="bool" value="false"/>
+      <property name="show-labels" type="bool" value="false"/>
+      <property name="grouping" type="uint" value="0"/>
+      <property name="show-wireframes" type="bool" value="false"/>
+      <property name="include-all-workspaces" type="bool" value="true"/>
+      <property name="show-only-minimized" type="bool" value="false"/>
+      <property name="include-all-monitors" type="bool" value="true"/>
+      <property name="show-handle" type="bool" value="true"/>
+      <property name="middle-click" type="uint" value="1"/>
+      <property name="sort-order" type="uint" value="0"/>
+    </property>
+    <property name="plugin-50" type="string" value="directorymenu">
+      <property name="base-directory" type="string" value="/home/reverie"/>
+    </property>
+    <property name="plugin-52" type="string" value="thunar-tpa"/>
+    <property name="plugin-19" type="string" value="separator"/>
+    <property name="plugin-20" type="string" value="separator"/>
+    <property name="plugin-21" type="string" value="separator"/>
+    <property name="plugin-25" type="string" value="pager">
+      <property name="rows" type="uint" value="2"/>
+      <property name="miniature-view" type="bool" value="true"/>
+    </property>
+    <property name="plugin-28" type="string" value="systemload">
+      <property name="uptime" type="empty">
+        <property name="enabled" type="bool" value="false"/>
+      </property>
+      <property name="cpu" type="empty">
+        <property name="color" type="array">
+          <value type="double" value="0.600000"/>
+          <value type="double" value="0.756863"/>
+          <value type="double" value="0.945098"/>
+          <value type="double" value="1.000000"/>
+        </property>
+      </property>
+      <property name="memory" type="empty">
+        <property name="color" type="array">
+          <value type="double" value="0.384314"/>
+          <value type="double" value="0.627451"/>
+          <value type="double" value="0.917647"/>
+          <value type="double" value="1.000000"/>
+        </property>
+      </property>
+      <property name="network" type="empty">
+        <property name="color" type="array">
+          <value type="double" value="0.207843"/>
+          <value type="double" value="0.517647"/>
+          <value type="double" value="0.894118"/>
+          <value type="double" value="1.000000"/>
+        </property>
+      </property>
+      <property name="swap" type="empty">
+        <property name="color" type="array">
+          <value type="double" value="0.101961"/>
+          <value type="double" value="0.372549"/>
+          <value type="double" value="0.705882"/>
+          <value type="double" value="1.000000"/>
+        </property>
+      </property>
+    </property>
+    <property name="plugin-29" type="string" value="separator"/>
+  </property>
+</channel>

@@ -1,0 +1,6 @@
+layout=0
+date_font=Sarai 15
+time_font=Sawasdee Bold 12
+date_format=%a, %b %d, %Y
+time_format=%H:%M:%S
+
