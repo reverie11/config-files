@@ -137,22 +137,11 @@ export PS1='${debian_chroot:+($debian_chroot)}\[\033[01;34m\]\u\[\033[01;35m\]@\
 PROMPT_COMMAND='echo' # new line after every process
 
 # Alias
-alias mmm="unimatrix -a -s 94"
 alias rr="./a.out"
 alias rm="rm -i"
 alias py="python"
+alias v="vim"
 alias nv="nvim"
-alias nvn="nvim --noplugin"
-alias vivado="/tools/Xilinx/Vivado/2023.1/bin/vivado"
-alias eagle="~/programs/eagle-9.6.2/eagle"
-alias connecthtw="~/connect-htw.sh"
-alias tmuxcheat="cat ~/cheat-tmux.txt"
-alias logic2="~/programs/Logic-2.4.22-linux-x64.AppImage"
-
-# miscellanous
-export GTK_IM_MODULE=ibus
-export XMODIFIERS=@im=ibus
-export QT_IM_MODULE=ibus
 
 # auto set title
 setTitle() {
